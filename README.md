@@ -350,7 +350,7 @@ There is no official certified exam for Python. **[Python Foundation Certificati
 
 You are now ready to answer crack Python interview at any level- beginner, intermediate, or advanced. You can also do this after any of the previous steps. Refer to these questions- these are questions of all difficulties- beginner, intermediate, and advanced. They also have some open-ended questions.
 
- - **[Python Interview Questions for Freshers](https://www.geeksforgeeks.org/python-interview-questions/#python-interview-questions-for-freshers)
+ - [Python Interview Questions for Freshers](https://www.geeksforgeeks.org/python-interview-questions/#python-interview-questions-for-freshers)
  - **[Top 150+ Interview Questions for Freshers](https://www.simplilearn.com/tutorials/python-tutorial/python-interview-questions)**
  - **[Python Interview Questions for Intermediate](https://www.geeksforgeeks.org/python-interview-questions/#intermediate-python-interview-questions)**
  - **[Python Interview Questions - Advanced](https://www.geeksforgeeks.org/python-interview-questions/#advanced-python-interview-questions-answers)**
