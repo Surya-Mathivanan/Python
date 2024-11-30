@@ -1,5 +1,5 @@
 # Python Tutorial
-This Python tutorial for beginners provides a complete overview of Python. Explorer Python features, Python syntax, python applications, python projects. You will also get 270+ free python tutorials to learn Python from scratch. Go from zero to hero with this [Python tutorial](https://www.youtube.com/playlist?list=PLf0LpPWikpPe5gc6fT9wDj3Y6e97z6ZD_)
+This Python tutorial for beginners provides a complete overview of Python. Explorer Python features, Python syntax, python applications, python projects. You will also get 270+ free python tutorials to learn Python from scratch. Go from zero to hero with this [Python tutorial](https://www.w3schools.com/python/)
 
 ## 1. What is Python?
 Python has quickly become a favorite- it’s being taught in universities, and also being used for everything from scripting and web development to machine learning and data science. But what is Python?
@@ -14,7 +14,7 @@ Before proceeding ahead it is recommended to refer: **[240+ Free tutorials to ma
  - It is great for both startups as well as big organizations. It is also beginner-friendly.
  - Python is open-source and has a large community. It is one of the top 5 in the largest communities on StackOverflow, the most-used language on GitHub, and the largest Meetup communities.
  - It has great career opportunities. Python jobs pay well and provide stability.
- - Python has many powerful frameworks like [Django](https://data-flair.training/blogs/django-tutorials-home/) and Flask for web development. They take care of the trivial tasks and make it easier to develop for the web.
+ - Python has many powerful frameworks like [Django](https://www.w3schools.com/django/) and Flask for web development. They take care of the trivial tasks and make it easier to develop for the web.
  - It is also great for machine learning, data science, and artificial intelligence. It has libraries for tasks involved in these domains.
  - You can use Raspberry Pi to create DIYs and other projects like robots, arcade machines, remote-controlled toys, and cameras.
  - Python’s readability and ease of use make developers more productive.
@@ -23,20 +23,20 @@ Before proceeding ahead it is recommended to refer: **[240+ Free tutorials to ma
 
 ## 3. What is it used for?
 Python is a general-purpose language, but is used almost everywhere:
- - Web development
- - Game development
- - **[Machine Learning](https://data-flair.training/blogs/machine-learning-tutorials-home/)**
- - **[Data Science](https://data-flair.training/blogs/data-science-tutorials-home/)**
- - [Artificial Intelligence](https://data-flair.training/blogs/ai-tutorials-home/)
- - Scripting
- - Computer Vision
- - Scraping
- - [Natural Language Processing](https://data-flair.training/blogs/nlp-tutorial-natural-language-processing/)
- - Data analytics
- - Scientific and Numeric computing
- - Software Application Development
- - Desktop GUI
- - Network Programming
+ - [Web development](https://www.geeksforgeeks.org/why-to-use-python-for-web-development/)
+ - [Game development](https://www.geeksforgeeks.org/python-game-development-libraries/)
+ - **[Machine Learning](https://www.w3schools.com/python/python_ml_getting_started.asp)**
+ - **[Data Science](https://www.w3schools.com/datascience/ds_python.asp)**
+ - [Artificial Intelligence](https://www.geeksforgeeks.org/python-ai/)
+ - [Scripting](https://www.geeksforgeeks.org/how-to-run-a-python-script/)
+ - [Computer Vision](https://www.geeksforgeeks.org/how-to-run-a-python-script/)
+ - [Scraping](https://www.geeksforgeeks.org/python-web-scraping-tutorial/)
+ - [Natural Language Processing](https://www.geeksforgeeks.org/natural-language-processing-nlp-tutorial/)
+ - [Data analytics](https://www.geeksforgeeks.org/data-analysis-with-python/)
+ - [Scientific and Numeric computing](https://onlinecourses.nptel.ac.in/noc23_ph46/preview)
+ - [Software Application Development](https://www.javatpoint.com/python-mobile-app-development)
+ - [Desktop GUI](https://www.geeksforgeeks.org/create-first-gui-application-using-python-tkinter/)
+ - [Network Programming](https://www.geeksforgeeks.org/python-network-programming/)
 
 ## 4. Is Python Easy to Learn?
 Python is definitely easy to learn, that is why python is taught to university students- to create interest in programming. You can gain expertise in python with this free python tutorial. **Python is:**
@@ -49,28 +49,28 @@ Python is definitely easy to learn, that is why python is taught to university s
 ## 5. How to Learn Python?
 Want to learn Python and build a career in it? We have laid down steps to help you:
 
- - Fast-pace your learning and take a lead from crowd with **[DataFlair's Python Course](https://data-flair.training/python-course/)**
+ - Fast-pace your learning and take a lead from crowd with **[Python Full Course](https://youtu.be/m67-bOpOoPU?si=WTCQNNQwJFvy7CBF)**
  - [270+ free tutorials to learn python from scratch](https://data-flair.training/blogs/python-tutorials-home/)
  - Code while you learn
  - Read books
  - Watch videos/ Do an online Python course
  - Work with machine learning and other libraries
  - Build projects
- - Read [interview questions](https://data-flair.training/blogs/python-interview-questions/)
+ - Read [interview questions](https://www.javatpoint.com/python-interview-questions)
  - Contribute to open-source projects
- - **[Python cheat sheet](https://docs.google.com/spreadsheets/d/1eNBLcKqCVN9zZQvfGUmm5bAzsETqB_ugVOlUtmvJGYU/edit#gid=0)** containing 100s of free tutorials, practicals, projects, (everything you need to master python)
+ - **[Python cheat sheet](https://www.geeksforgeeks.org/python-cheat-sheet/)** containing 100s of free tutorials, practicals, projects, (everything you need to master python)
 
 ### Top Python Books
 These are some books you should read to improve your Python skills:
 
- - [Learning Python - Mark Lutz](https://www.oreilly.com/library/view/learning-python-5th/9781449355722/)
+ - Learning Python - Mark Lutz
  - Python Cookbook - David Beazley and Brian K. Jones
  - Python for Data Analysis - Wes McKinney
  - Python Essential Reference - David Beazley
  - Python in a Nutshell - Alex Martelli
  - Violent Python - TJ O’Connor
  - Python Pocket Reference - Mark Lutz
-**[Top 10 Python Books for Beginners & Experienced](https://data-flair.training/blogs/best-python-book/)**
+**Top 10 Python Books for Beginners & Experienced**
 
 ## 6. Basics of Python for beginners
 
@@ -78,14 +78,14 @@ These are some books you should read to improve your Python skills:
 
 Let’s first see what Python looks like.
 
- - **[Functions](https://data-flair.training/blogs/python-function/)** - Collections of statements grouped under a name. May or may not return a value.
- - **[Classes](https://data-flair.training/blogs/python-class/) and Objects** - Python is object-oriented. A class is an abstract data type and a blueprint with no values. An object is an instance of a class. Everything in Python is an object.
- - **[Modules](https://data-flair.training/blogs/python-modules/)** - Modules are collections of related classes and functions. You can use code from these instead of writing your own for trivial functionality.
- - **[Packages](https://data-flair.training/blogs/python-packages/)** - They are collections of related modules. You can also create your own packages.
- - **[Lists](https://data-flair.training/blogs/python-lists-examples/)** - These are collections of values in the CSV format. Lists are mutable objects.
- - **[Tuples](https://data-flair.training/blogs/python-tuples-syntax-examples/)** - These are like lists, but immutable.
- - **[Dictionaries](https://data-flair.training/blogs/python-dictionary/)** - These are collections of key-value pairs defined using curly braces.
- - **[Sets](https://data-flair.training/blogs/python-set-and-booleans-with-examples/)** - They can’t have duplicates, and are mutable.
+ - **[Functions](https://www.w3schools.com/python/python_functions.asp)** - Collections of statements grouped under a name. May or may not return a value.
+ - **[Classes](https://www.w3schools.com/python/python_classes.asp) and Objects** - Python is object-oriented. A class is an abstract data type and a blueprint with no values. An object is an instance of a class. Everything in Python is an object.
+ - **[Modules](https://www.w3schools.com/python/python_modules.asp)** - Modules are collections of related classes and functions. You can use code from these instead of writing your own for trivial functionality.
+ - **[Packages](https://www.geeksforgeeks.org/python-packages/)** - They are collections of related modules. You can also create your own packages.
+ - **[Lists](https://www.w3schools.com/python/python_lists.asp)** - These are collections of values in the CSV format. Lists are mutable objects.
+ - **[Tuples](hhttps://www.w3schools.com/python/python_tuples.asp)** - These are like lists, but immutable.
+ - **[Dictionaries](https://www.w3schools.com/python/python_dictionaries.asp)** - These are collections of key-value pairs defined using curly braces.
+ - **[Sets](https://www.w3schools.com/python/python_sets.asp)** - They can’t have duplicates, and are mutable.
  - **Comments and Docstrings** - Comments are for the developer, explain code and are declared with a hash (#) sign. Docstrings are documentation strings that explain code. There are no multiline comments.
 
 ### b. Python Features
@@ -105,81 +105,81 @@ Let’s discuss some features of Python now.
  - GUI programming
  - Dynamically typed
  
-[Unique features which make Python most popular programming language on the planet](https://data-flair.training/blogs/features-of-python/)
 
 ### c. Concepts to learn Python
 
 Let’s talk about the important concepts you should learn in Python.
 
- - [Syntax](https://data-flair.training/blogs/python-syntax-semantics/)
-   - [Statements, Indentation, and Comments](https://data-flair.training/blogs/python-comment/)
-   - [Variables and Data Types](https://data-flair.training/blogs/python-variables-and-data-types/)
-     - [Numbers](https://data-flair.training/blogs/python-number-types-conversion/)
-     - [Strings](https://data-flair.training/blogs/python-string/)
-     - Booleans
-   - [Variable Scope](https://data-flair.training/blogs/python-variable-scope/)
-   - [Identifiers](https://data-flair.training/blogs/identifiers-in-python/)
-   - [Namespace and Scope](https://data-flair.training/blogs/python-namespace-and-variable-scope/)
-   - [Operators](https://data-flair.training/blogs/python-operator/)
-     - [Bitwise](https://data-flair.training/blogs/python-bitwise-operators/)
-     - [Comparison](https://data-flair.training/blogs/python-comparison-operators/)
-     - [Precedence](https://data-flair.training/blogs/python-operator-precedence/)
-     - Slicing
-     - [Ternary](https://data-flair.training/blogs/python-ternary-operator/)
- - **[Data Structures](https://data-flair.training/blogs/python-data-structures-tutorial/)**
-   - Lists
-   - Tuples
-   - [Dictionaries](https://www.youtube.com/watch?v=5XlRrQYwM5Y)
-   - Sets
-   - Comprehensions
- - [Decision Making](https://data-flair.training/blogs/python-decision-making-expressions/)
-   - Switch
- - [Loops](https://data-flair.training/blogs/python-loops/)
- - Functions
-   - [Built-in functions](https://data-flair.training/blogs/python-built-in-functions/)
-   - [range()](https://data-flair.training/blogs/python-range-function/), [zip()](https://data-flair.training/blogs/python-zip-function/), [eval()](https://data-flair.training/blogs/python-eval-function/), [exec()](https://data-flair.training/blogs/python-exec-function/), repr()
-   - [Function arguments](https://data-flair.training/blogs/python-function-arguments/)
-   - [Recursion](https://data-flair.training/blogs/recursion-in-python/)
-   - [Lambda expressions](https://data-flair.training/blogs/python-lambda-expressions/)
- - Object-Oriented
-   - Classes and Objects
-   - [Methods](https://data-flair.training/blogs/python-method/)
-   - [Inheritance and types](https://data-flair.training/blogs/python-inheritance/)
-   - [Operator overloading](https://data-flair.training/blogs/python-operator-overloading/)
-   - property class
-   - [Shallow and deep copying](https://data-flair.training/blogs/copy-in-python-deep-shallow-copy/)
- - [Modules](https://data-flair.training/blogs/python-modules/)
-   - os, pprint, sys, array, itertools
-   - [Counter, defaultdict, OrderedDict, namedtuple](https://data-flair.training/blogs/python-collections-module/)
-   - datetime, calendar
- - [Packages](https://data-flair.training/blogs/python-packages/)
- - [Working with files](https://data-flair.training/blogs/python-file/)
-   - [Read/Write](https://data-flair.training/blogs/file-handling-in-python/)
-   - Copying, Renaming, Zipping
- - [Iterators](https://data-flair.training/blogs/python-iterator/)
-   - [Generators](https://data-flair.training/blogs/python-generator/)
-   - [Closure](https://data-flair.training/blogs/python-closure/)
- - [Decorators](https://data-flair.training/blogs/python-decorator/)
- - [Assert statements](https://data-flair.training/blogs/python-assert/)
- - [Errors and Exceptions](https://data-flair.training/blogs/python-error-exception/)
- - [Exception handling](https://data-flair.training/blogs/python-exception-handling/)
- - [XML processing](https://data-flair.training/blogs/xml-processing-python-3/), sending email, networking
- - GUI programming in Python
- - [Python Multithreading and multiprocessing](https://data-flair.training/blogs/python-multithreading/)
- - [Regular Expressions in Python](https://data-flair.training/blogs/python-regex-tutorial/)
- - [Accessing database with Python](https://data-flair.training/blogs/python-database-access/)
- - Logging, [unit testing](https://data-flair.training/blogs/python-unittest/)
- - Virtual Environments
- - [Serialization](https://data-flair.training/blogs/python-pickle/)
- - [Libraries](https://data-flair.training/blogs/python-library/)
-   - [scipy](https://data-flair.training/blogs/scipy-tutorial/)
-   - [numpy](https://data-flair.training/blogs/python-numpy-tutorial/)
-   - [Image processing](https://data-flair.training/blogs/image-processing-with-scipy-and-numpy/)
-   - [Matplotlib](https://data-flair.training/blogs/python-matplotlib-tutorial/)
-   - **[pandas](https://data-flair.training/blogs/pandas-tutorials-home/)**
- - Frameworks
-   - [Django](https://data-flair.training/blogs/django-tutorials-home/)
-   - [Flask](https://data-flair.training/blogs/python-flask-tutorial/)
+ - [Syntax](https://www.w3schools.com/python/python_syntax.asp)
+   - [Statements, Indentation, and Comments](https://www.w3schools.com/python/python_conditions.asp)
+   - [Variables and Data Types](https://www.w3schools.com/python/python_variables.asp)
+     - [Numbers](https://www.w3schools.com/python/python_numbers.asp)
+     - [Strings](https://www.w3schools.com/python/python_strings.asp)
+     - [Booleans](https://www.w3schools.com/python/python_booleans.asp)
+   - [Variable Scope](https://www.w3schools.com/python/python_scope.asp)
+   - [Identifiers](https://www.geeksforgeeks.org/python-keywords-and-identifiers/)
+   - [Namespace and Scope](https://www.w3schools.com/python/python_scope.asp)
+   - [Operators](https://www.w3schools.com/python/python_operators.asp)
+     - [Bitwise](https://www.w3schools.com/python/python_operators.asp)
+     - [Comparison](https://www.w3schools.com/python/python_operators.asp)
+     - [Precedence](https://www.w3schools.com/python/python_operators.asp)
+     - [Slicing](https://www.w3schools.com/python/python_strings_slicing.asp)
+     - [Ternary](https://www.geeksforgeeks.org/ternary-operator-in-python/)
+ - **[Data Structures](https://www.geeksforgeeks.org/python-data-structures/)**
+   - [Lists](https://www.w3schools.com/python/python_lists.asp)
+   - [Tuples](https://www.w3schools.com/python/python_tuples.asp)
+   - [Dictionaries](https://www.w3schools.com/python/python_dictionaries.asp)
+   - [Sets](https://www.w3schools.com/python/python_sets.asp)
+   - [Comprehensions](https://www.w3schools.com/python/python_lists_comprehension.asp)
+ - [Decision Making](https://www.w3schools.com/python/python_ml_decision_tree.asp)
+   - [Switch](https://www.w3schools.com/go/go_switch.php)
+ - [Loops](https://www.w3schools.com/python/python_for_loops.asp)
+ - [Functions](https://www.w3schools.com/python/python_functions.asp)
+   - [Built-in functions](https://www.w3schools.com/python/python_ref_functions.asp)
+   - [range()](https://www.w3schools.com/python/python_functions.asp), [zip()](https://www.w3schools.com/python/python_functions.asp), [eval()](https://www.w3schools.com/python/python_functions.asp), [exec()](https://www.w3schools.com/python/python_functions.asp), repr()
+   - [Function arguments](https://www.w3schools.com/python/python_functions.asp)
+   - [Recursion](https://www.w3schools.com/python/gloss_python_function_recursion.asp)
+   - [Lambda expressions](https://www.w3schools.com/python/python_lambda.asp)
+ - [Object-Oriented](https://www.geeksforgeeks.org/python-oops-concepts/)
+   - [Classes and Objects](https://www.w3schools.com/python/python_classes.asp)
+   - [Methods](https://www.w3schools.com/python/python_classes.asp)
+   - [Inheritance and types](https://www.w3schools.com/python/python_inheritance.asp)
+   - [Operator overloading](https://www.w3schools.com/python/python_classes.asp)
+   - [property class](https://www.w3schools.com/python/python_classes.asp)
+   - [Shallow and deep copying](https://www.w3schools.com/python/python_classes.asp)
+ - [Modules](https://www.w3schools.com/python/python_modules.asp)
+   - [os, pprint, sys, array, itertools](https://www.w3schools.com/python/python_modules.asp)
+   - [Counter, defaultdict, OrderedDict, namedtuple](https://www.w3schools.com/python/python_modules.asp)
+   - [datetime, calendar](https://www.w3schools.com/python/python_datetime.asp)
+ - [Packages](https://www.w3schools.com/python/python_functions.asp)
+ - [Working with files](https://www.w3schools.com/python/python_file_handling.asp)
+   - [Read](https://www.w3schools.com/python/python_file_open.asp)
+   - [Write](https://www.w3schools.com/python/python_file_write.asp)
+   - [Copying, Renaming, Zipping](https://www.w3schools.com/python/python_file_remove.asp)
+ - [Iterators](https://www.w3schools.com/python/python_iterators.asp)
+   - [Generators](https://www.geeksforgeeks.org/generators-in-python/)
+   - [Closure](https://www.geeksforgeeks.org/python-closures/)
+ - [Decorators](https://www.geeksforgeeks.org/decorators-in-python/)
+ - [Assert statements](https://www.w3schools.com/python/ref_keyword_assert.asp)
+ - [Errors and Exceptions](https://www.geeksforgeeks.org/python-exception-handling/)
+ - [Exception handling](https://www.geeksforgeeks.org/python-exception-handling/)
+ - [XML processing](https://www.geeksforgeeks.org/xml-parsing-python/), sending email, networking
+ - [GUI programming in Python](https://www.geeksforgeeks.org/create-first-gui-application-using-python-tkinter/)
+ - [Python Multithreading and multiprocessing](https://www.geeksforgeeks.org/difference-between-multithreading-vs-multiprocessing-in-python/)
+ - [Regular Expressions in Python](https://www.w3schools.com/python/python_regex.asp)
+ - [Accessing database with Python](https://www.w3schools.com/python/python_mysql_getstarted.asp)
+ - [Logging](https://www.geeksforgeeks.org/logging-in-python/), [unit testing](https://www.geeksforgeeks.org/unit-testing-python-unittest/)
+ - [Virtual Environments](https://www.geeksforgeeks.org/python-virtual-environment/)
+ - [Serialization](https://www.javatpoint.com/serialization-in-python)
+ - [Libraries](https://www.javatpoint.com/library-in-python)
+   - [scipy](https://www.w3schools.com/python/scipy/scipy_intro.php)
+   - [numpy](https://www.w3schools.com/python/numpy/numpy_intro.asp)
+   - [Image processing](https://www.geeksforgeeks.org/image-processing-in-python/)
+   - [Matplotlib](https://www.w3schools.com/python/matplotlib_pyplot.asp)
+   - **[pandas](https://www.w3schools.com/python/pandas/default.asp)**
+ - [Frameworks](https://www.javatpoint.com/python-frameworks)
+   - [Django](https://www.w3schools.com/django/)
+   - [Flask](https://www.geeksforgeeks.org/flask-tutorial/)
 
 ### d. Flavors of Python
 
@@ -206,7 +206,7 @@ Python files may have one of the following extensions:
 
 ## 7. Python Syntax
 
-Refer to the links above to learn about variables, operators, and other topics. Here, we will talk about the **[syntax of Python code](https://data-flair.training/blogs/python-syntax-semantics/)**.
+Refer to the links above to learn about variables, operators, and other topics. Here, we will talk about the **[syntax of Python code](https://www.w3schools.com/python/python_syntax.asp)**.
 
  - Line Structure - Python Programs consist of logical lines. Each line has a NEWLINE token at the end. Blank lines are ignored.
  - Multiline statements - There are no semicolons or braces in Python (you can use semicolons if you want, but they are not mandatory)
@@ -220,7 +220,7 @@ Refer to the links above to learn about variables, operators, and other topics. 
  - Identifiers - These are names of elements, and are case-sensitive. You need to follow some rules when naming identifiers.
  - Variables - They hold values. Python follows duck-typing and is dynamically-typed. You don’t need to declare the type of variable, that is determined by the interpreter at runtime.
  - String formatters - For this, you can use the % operator, the format() method, or f-strings.
- - **[Python vs Java vs C++](https://data-flair.training/blogs/python-vs-java/)** - Curly braces are mandatory in Java and C++, but Python uses whitespace indentation to delimit code. Semicolons are optional in Python, but can cause errors in C++ and Java. Python is dynamically-typed, Java and C++ are statically-typed. Java is faster than Python.
+ - **[Python vs Java vs C++](https://www.javatpoint.com/c-vs-cpp-vs-python-vs-java)** - Curly braces are mandatory in Java and C++, but Python uses whitespace indentation to delimit code. Semicolons are optional in Python, but can cause errors in C++ and Java. Python is dynamically-typed, Java and C++ are statically-typed. Java is faster than Python.
 
 ## 8. Popular IDEs
 
@@ -229,7 +229,7 @@ While you learn Python, you will use an IDE (Integrated Development Environment)
 ### a. IDLE
 
 Pricing: Free
-[IDLE](https://docs.python.org/3/library/idle.html) comes with Python. It is lightweight and simple.
+[IDLE](https://www.python.org/downloads/) comes with Python. It is lightweight and simple.
 
 ### b. Sublime Text 3
 
@@ -289,29 +289,29 @@ Python is an easy language to learn and has a smooth learning curve. Learning th
 
 Python has over 198,495 projects in the PyPI. Which of those packages (and the built-in ones) should you learn? Here are a few names:
 
- - [scipy](https://data-flair.training/blogs/scipy-tutorial/)
- - [numpy](https://data-flair.training/blogs/python-numpy-tutorial/)
- - matplotlib
- - urllib
- - requests
- - smtplib
- - [os](https://data-flair.training/blogs/python-os-module/)
- - shutil
- - tkinter
- - [PyQt](https://data-flair.training/blogs/python-pyqt5-tutorial/)
- - threading
- - [subprocess](https://data-flair.training/blogs/python-subprocess-module/)
- - PyMySQL
- - [unittest](https://data-flair.training/blogs/python-unittest/)
- - pickle
- - [logging](https://data-flair.training/blogs/python-logging/)
- - virtualenv
- - pandas
- - scikit-learn
- - datetime, calendar, time
- - [collections](https://data-flair.training/blogs/python-sequences-and-collections/)
- - [array](https://data-flair.training/blogs/python-array-module/)
- - [itertools](https://data-flair.training/blogs/python-itertools/)
+ - [scipy](https://www.w3schools.com/python/scipy/index.php)
+ - [numpy](https://www.w3schools.com/python/numpy/default.asp)
+ - [matplotlib](https://www.w3schools.com/python/matplotlib_intro.asp)
+ - [urllib](https://www.javatpoint.com/python-urllib-library)
+ - [requests](https://www.w3schools.com/python/module_requests.asp)
+ - [smtplib](https://www.javatpoint.com/python-sending-email)
+ - [os](https://www.w3schools.com/python/module_os.asp)
+ - [shutil](https://www.javatpoint.com/shutil-module-in-python)
+ - [tkinter](https://www.javatpoint.com/python-tkinter)
+ - [PyQt](https://www.javatpoint.com/pyqt-library-in-python)
+ - [threading](https://www.geeksforgeeks.org/multithreading-python-set-1/)
+ - [subprocess](https://www.geeksforgeeks.org/python-subprocess-module/)
+ - [PyMySQL](https://www.geeksforgeeks.org/connect-to-mysql-using-pymysql-in-python/)
+ - [unittest](https://www.geeksforgeeks.org/unit-testing-python-unittest/)
+ - [pickle](https://www.javatpoint.com/pickle-module-of-python)
+ - [logging](https://www.geeksforgeeks.org/logging-in-python/)
+ - [virtualenv](https://www.geeksforgeeks.org/python-virtual-environment/)
+ - [pandas](https://www.w3schools.com/python/pandas/default.asp)
+ - [scikit-learn](https://www.geeksforgeeks.org/learning-model-building-scikit-learn-python-machine-learning-library/)
+ - [datetime](https://www.w3schools.com/python/python_datetime.asp), [calendar](https://www.javatpoint.com/python-display-calendar), [time](https://www.javatpoint.com/python-time-module)
+ - [collections](https://www.javatpoint.com/python-collection-module)
+ - [array](https://www.w3schools.com/python/python_arrays.asp)
+ - [itertools](https://www.javatpoint.com/python-itertools)
 
 ## 11. Which Python Projects Should I Develop?
 
@@ -320,29 +320,43 @@ Building a [python project](https://sites.google.com/view/learn-python-data-scie
  - Start with some basic projects like Hangman and Tic-Tac-Toe. Build an alarm clock. This can be console-based.
  - Move on to intermediate projects like a todo-list with Django. Use frameworks and build GUIs too.
  - Now, it’s time to work on some advanced Python projects like:
-   - [Parkinson’s Disease Detection with XGBoost](https://data-flair.training/blogs/python-machine-learning-project-detecting-parkinson-disease/)
-   - [Speech Emotion Recognition with librosa](https://data-flair.training/blogs/python-mini-project-speech-emotion-recognition/)
-   - [Breast Cancer Classification with Deep Learning](https://data-flair.training/blogs/project-in-python-breast-cancer-classification/)
-   - [Fake News Detection with classfication](https://data-flair.training/blogs/advanced-python-project-detecting-fake-news/)
-   - [Gender and Age Detection with OpenCV](https://data-flair.training/blogs/python-project-gender-age-detection/)
-   - [Driver Drowsiness Detection with OpenCV & Keras](https://data-flair.training/blogs/python-project-driver-drowsiness-detection-system/)
+   - Basic Projects
+	- Hangman Game: Practice string manipulation and basic logic.
+	- Tic-Tac-Toe: Implement game logic and learn user input handling.
+	- Alarm Clock: Work with time libraries like time or datetime.
+   - Intermediate Projects
+	- Todo List: Build a CRUD application using Django or Flask.
+	- GUI Applications: Use Tkinter or PyQt for creating simple GUI-based projects.
+   - Advanced Projects
+	- Parkinson’s Disease Detection: Use XGBoost for classification based on biomedical data.
+	- Speech Emotion Recognition: Process audio files using librosa and classify emotions.
+	- Breast Cancer Classification: Implement deep learning models with TensorFlow or PyTorch.
+	- Fake News Detection: Develop a text classifier using NLP techniques.
+	- Gender and Age Detection: Apply OpenCV for facial recognition and preprocessing.
+	- Driver Drowsiness Detection: Combine OpenCV and Keras to analyze facial landmarks and detect drowsiness.
+   - Real-World Projects
+	- Identify a problem in your daily life or community and design a Python-based solution. For example:
+		- A budget tracker for personal finance.
+		- An interactive study planner for students.
+These projects will gradually enhance your Python skills and problem-solving capabilities. 
 
 You can also build a project to solve a real problem you face or faced earlier.
 
 ## 12. Should I Go for the Python Certification?
 
-There is no official certified exam for Python. **[DataFlair offers an excellent certification program for Python](https://data-flair.training/python-course/)**. This has more than 20 hours of video-based sessions, tons of practicals, and 5 exciting projects to build- with complete source code!
+There is no official certified exam for Python. **[Python Foundation Certification](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_0135784773973196803862_shared/overview)**. This has more than 20 hours of video-based sessions, tons of practicals, and 5 exciting projects to build- with complete source code!
 
 ## 13. Python Interview Questions
 
 You are now ready to answer crack Python interview at any level- beginner, intermediate, or advanced. You can also do this after any of the previous steps. Refer to these questions- these are questions of all difficulties- beginner, intermediate, and advanced. They also have some open-ended questions.
 
- - **[Top 150+ Interview Questions for Freshers](https://data-flair.training/blogs/top-python-interview-questions-answer/)**
- - **[Python Interview Questions for Intermediate](https://data-flair.training/blogs/python-interview-questions/)**
- - **[Python Interview Questions - Advanced](https://data-flair.training/blogs/python-programming-interview-questions/)**
+ - **[Python Interview Questions for Freshers](https://www.geeksforgeeks.org/python-interview-questions/#python-interview-questions-for-freshers)
+ - **[Top 150+ Interview Questions for Freshers](https://www.simplilearn.com/tutorials/python-tutorial/python-interview-questions)**
+ - **[Python Interview Questions for Intermediate](https://www.geeksforgeeks.org/python-interview-questions/#intermediate-python-interview-questions)**
+ - **[Python Interview Questions - Advanced](https://www.geeksforgeeks.org/python-interview-questions/#advanced-python-interview-questions-answers)**
 
 ## 14. Python Job Trends
-Python is the second-most loved language and the most-wanted language according to the StackOverflow Developer Survey for 2019. It seems to have a [good future with stable jobs](https://data-flair.training/blogs/python-future/). Also, the jobs pay well. Here are the profiles you can go for if you learn Python:
+Python is the second-most loved language and the most-wanted language according to the StackOverflow Developer Survey for 2019. It seems to have a [good future with stable jobs](https://www.simplilearn.com/career-opportunities-in-python-article). Also, the jobs pay well. Here are the profiles you can go for if you learn Python:
 
  - Software Engineer
  - Senior Software Engineer
@@ -364,27 +378,27 @@ Python is at #3 on the TIOBE Index for September 2019. Job boards like Naukri an
 
 One reason why Python is so popular is its libraries. We have many libraries geared toward data science and machine learning. These have tools and functions/methods for trivial tasks so we don’t have to implement everything from scratch. You should learn to work with the following libraries:
 
- - scikit-learn
- - scipy
- - numpy
- - [pandas](https://data-flair.training/blogs/pandas-tutorials-home/)
- - xgboost
- - keras
- - **[tensorflow](https://data-flair.training/blogs/tensorflow-tutorials-home/)**
- - matplotlib
- - seaborn
- - theano
- - mlpy
- - [NetworkX](https://networkx.github.io/)
- - SymPy
- - Dask
- - Dmelt
+ - [scikit-learn](https://www.geeksforgeeks.org/learning-model-building-scikit-learn-python-machine-learning-library/)
+ - [scipy](https://www.w3schools.com/python/scipy/scipy_intro.php)
+ - [numpy](https://www.w3schools.com/python/numpy/numpy_intro.asp)
+ - [pandas](https://www.w3schools.com/python/numpy/pandas_intro.asp)
+ - [xgboost](https://www.geeksforgeeks.org/ml-xgboost-extreme-gradient-boosting/)
+ - [keras](https://www.javatpoint.com/keras)
+ - **[tensorflow](https://www.javatpoint.com/tensorflow-introduction)**
+ - [matplotlib](https://www.w3schools.com/python/matplotlib_pyplot.asp)
+ - [seaborn](https://www.w3schools.com/python/numpy/numpy_random_seaborn.asp)
+ - [theano](https://www.geeksforgeeks.org/theano-in-python/)
+ - [mlpy](https://mlpy.sourceforge.net/)
+ - [NetworkX](https://www.geeksforgeeks.org/networkx-python-software-package-study-complex-networks/)
+ - [SymPy](https://www.sympy.org/en/index.html)
+ - [Dask](https://www.dask.org/)
+ - [Dmelt](https://sourceforge.net/projects/dmelt/)
  - [PyBrain](http://pybrain.org/)
 
 ***What Next***
- - [Learn Python for Machine Learning](https://data-flair.training/blogs/python-machine-learning-tutorial/)
- - [Learn Python for Data Science](https://data-flair.training/blogs/python-for-data-science/)
- - [Learn Python for Artificial Intelligence](https://data-flair.training/blogs/python-ai-tutorial/)
+ - [Learn Python for Machine Learning](https://www.geeksforgeeks.org/python-for-machine-learning/)
+ - [Learn Python for Data Science](https://www.geeksforgeeks.org/data-science-with-python-tutorial/)
+ - [Learn Python for Artificial Intelligence](https://www.geeksforgeeks.org/python-ai/)
 
 ## 16. Companies Using Python
 
@@ -392,12 +406,12 @@ Many giant companies use Python for their products and services. Some of these a
 
  - Google - Python as a major programming language
  - Facebook - For production engineering
- - [NASA](https://code.nasa.gov/) Workflow Automation Tool - Written in Python
- - [Nokia - Platforms like S60](https://en.wikipedia.org/wiki/Python_for_S60)
+ - NASA Workflow Automation Tool - Written in Python
+ - Nokia - Platforms like S60
  - IBM - Factor tool control applications
  - Walt Disney Feature Animation - Scripting language for animation
  - Yahoo! Maps services - Written in Python
- - [Disqus](https://disqus.com/) - Commenting forum built with Django
+ - Disqus - Commenting forum built with Django
  - Dropbox stack - Written in Python
  - Quora - Social website written in Python
  - Instagram - Built with Django
@@ -409,7 +423,7 @@ Many giant companies use Python for their products and services. Some of these a
 
 ### a. Python at Netflix
 
-**[Netflix uses Python](https://data-flair.training/blogs/python-at-netflix/)** for data analysis and its backend services. It is how it recommends new titles. Netflix also uses Python to build custom extensions to the Jupyter server. This can be used to manage tasks like logging, archiving, publishing and cloning notebooks. Netflix uses the statistical and numerical libraries like numpy, scipy, tuptures, and pandas. It also uses Python for automation, data exploration, and visualization. It implements demand engineering, insight engineering, Open Connect Network, Information Security, an ML infrastructure, Notebooks, a Partner Ecosystem, and Animation and NVFX.
+**Netflix uses Python** for data analysis and its backend services. It is how it recommends new titles. Netflix also uses Python to build custom extensions to the Jupyter server. This can be used to manage tasks like logging, archiving, publishing and cloning notebooks. Netflix uses the statistical and numerical libraries like numpy, scipy, tuptures, and pandas. It also uses Python for automation, data exploration, and visualization. It implements demand engineering, insight engineering, Open Connect Network, Information Security, an ML infrastructure, Notebooks, a Partner Ecosystem, and Animation and NVFX.
 
 ### b. Spotify
 Like Netflix, Spotify uses [Python](https://www.python.org/) for data analysis and backend services. It uses ZeroMQ for backend communication- this is an open networking framework written in Python and C++. Python allows fast development. Also, Spotify uses it for data analytics to create suggestions and recommendations. It also uses Luigi for synchronization with Hadoop. This lets it create "Radio and Discovery".
@@ -429,5 +443,3 @@ Google has been using Python since the beginning. They decided to implement Pyth
 
 This was the A-Z of Python. In this python tutorial we tried to cover complete overview of Python you could want to know. We discussed Python, its syntax, why and how to learn python, a short tutorials, some libraries, python projects, python interview questions, its future, Python for Machine Learning, companies and some case studies.
 
-**Are you looking to become a Python expert?**
-**[Join DataFlair's Certified Python Course](https://data-flair.training/python-course/)** & become industry ready
